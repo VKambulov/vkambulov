@@ -5,8 +5,12 @@
 </a>
 
 - 🔭 I’m currently working on several interesting projects.
-- 🌱 I’m currently learning **PHP**, **JavaScript**, **TypeScript**, **Python**.
+- 🌱 I’m currently learning **PHP**, **JavaScript**, **TypeScript** and **Python**.
 - 💬 Ask me about anything what you want.
 - 📫 How to reach me:
   - **Email**: vk09@pm.me
   - **Telegram**: [@VKambulov](https://t.me/vkambulov)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" height="193" src="https://github-readme-stats.vercel.app/api/wakatime?username=VKambulov&layout=compact" />
+</a>
