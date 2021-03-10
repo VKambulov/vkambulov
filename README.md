@@ -12,5 +12,5 @@
   - **Telegram**: [@VKambulov](https://t.me/vkambulov)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" height="193" src="https://github-readme-stats.vercel.app/api/wakatime?username=VKambulov&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=VKambulov&layout=compact" />
 </a>
