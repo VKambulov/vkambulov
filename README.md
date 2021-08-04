@@ -10,3 +10,7 @@
 - 📫 How to reach me:
   - **Email**: vk09@pm.me
   - **Telegram**: [@VKambulov](https://t.me/vkambulov)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=VKambulov&layout=compact&langs_count=16" />
+</a>
