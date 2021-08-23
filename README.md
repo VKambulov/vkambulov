@@ -12,4 +12,4 @@
   - **Email**: vk09@pm.me
   - **Telegram**: [@VKambulov](https://t.me/vkambulov)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@VKambulov/b569c0df-1b5e-499e-a78f-487c8c7b8671.png" /></a>
+<a href="https://wakatime.com/@VKambulov"><img src="https://wakatime.com/share/@VKambulov/b569c0df-1b5e-499e-a78f-487c8c7b8671.png" /></a>
