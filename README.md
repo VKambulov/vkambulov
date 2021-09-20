@@ -12,4 +12,11 @@
   - **Email**: vk09@pm.me
   - **Telegram**: [@VKambulov](https://t.me/vkambulov)
 
-<a href="https://wakatime.com/@VKambulov"><img src="https://wakatime.com/share/@VKambulov/4d0d40c4-4abf-4898-8136-a9d4850d1243.png" /></a>
+<details>
+  <summary>Languages over Last Year</summary>
+  <a href="https://wakatime.com/@VKambulov"><img src="https://wakatime.com/share/@VKambulov/806a8c06-416b-4c7e-b83f-4f6d396d28cd.png" /></a>
+</details>
+<details>
+  <summary>Languages over Last 30 Days</summary>
+  <a href="https://wakatime.com/@VKambulov"><img src="https://wakatime.com/share/@VKambulov/95898244-0415-4407-b069-e7a0ab9ac659.png" /></a>
+</details>
