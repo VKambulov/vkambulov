@@ -5,8 +5,8 @@
 </a>
 
 - 🔭 I’m currently working on several interesting projects.
-- 🌱 I’m currently learning **PHP**, **JavaScript**, **TypeScript**, **Dart** and **Python**.
-- 👨‍💻 I am also studying the following libraries and frameworks: **Laravel**, **Vue.js**, **TensorFlow** and little bit **Flutter**.
+- 🌱 I’m currently learning **PHP**, **JavaScript**, **TypeScript** and **Python**.
+- 👨‍💻 I am also studying the following libraries and frameworks: **Laravel**, **Vue.js**, **TensorFlow**.
 - 💬 Ask me about anything what you want.
 - 📫 How to reach me:
   - **Email**: vk09@pm.me
