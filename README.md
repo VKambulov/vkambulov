@@ -11,7 +11,7 @@
 - 👨‍💻 I am also studying the following libraries and frameworks: **Laravel**, **Vue.js**, **TensorFlow**.
 - 💬 Ask me about anything what you want.
 - 📫 How to reach me:
-  - **Email**: vk09@pm.me
+  - **Email**: me@vk09.ru
   - **Telegram**: [@VKambulov](https://t.me/vkambulov)
 
 <details>
