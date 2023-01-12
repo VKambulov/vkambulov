@@ -2,10 +2,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/b5357371-94d4-488b-a127-99eb51cf08c7.svg)](https://wakatime.com/@b5357371-94d4-488b-a127-99eb51cf08c7)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" height="175" src="https://github-readme-stats.vercel.app/api?username=VKambulov&count_private=true&show_icons=true&include_all_commits=true&disable_animations=true" />
-</a>
-
 - 🔭 I’m currently working on several interesting projects.
 - 🌱 I’m currently learning **PHP**, **JavaScript**, **TypeScript** and **Python**.
 - 👨‍💻 I am also studying the following libraries and frameworks: **Laravel**, **Vue.js**, **TensorFlow**.
