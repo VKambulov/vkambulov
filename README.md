@@ -3,8 +3,8 @@
 [![wakatime](https://wakatime.com/badge/user/b5357371-94d4-488b-a127-99eb51cf08c7.svg)](https://wakatime.com/@b5357371-94d4-488b-a127-99eb51cf08c7)
 
 - 🔭 I’m currently working on several interesting projects.
-- 🌱 I’m currently learning **PHP**, **JavaScript**, **TypeScript** and **Python**.
-- 👨‍💻 I am also studying the following libraries and frameworks: **Laravel**, **Vue.js**, **TensorFlow**.
+- 🌱 I’m currently learning **PHP**, **TypeScript**, **Python** and **Dart**.
+- 👨‍💻 I am also studying the following libraries and frameworks: **Laravel**, **Vue.js**, **Flutter**.
 - 💬 Ask me about anything what you want.
 - 📫 How to reach me:
   - **Email**: me@vk09.ru
